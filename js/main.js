@@ -46,7 +46,7 @@ var str = "Have a 'good' Time";
 console.log(str.length);
 console.log(str.indexOf("'good'"));
 console.log(str.substring(0,4));
-console.log(Math.round(1.5));W
+console.log(Math.round(1.5));
 console.log(Number.MAX_VALUE);
 console.log(Number.MIN_VALUE);
 
